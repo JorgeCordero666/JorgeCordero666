@@ -10,7 +10,7 @@
 ### ABOUT ME
 
 - I like read book. 📚
-- I like programing with JAVA and PYTHON.
+- I like programming with JAVA and PYTHON.
 
 <div align = "left">
     <h3>🔨 Languages and Tools</h3>
